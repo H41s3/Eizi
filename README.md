@@ -15,4 +15,4 @@ Eizi is a simple Python chatbot that talks to you based on how you're feeling. I
 2. Run the script:
 
 ```bash
-python baymax_v0.py
+python eizi_v0.py
